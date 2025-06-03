@@ -84,8 +84,9 @@
 <div align="center">
   <i>Home | Skills | Projects | Contact</i>
   <br><br>
-  <i>(Add screenshots later or GIF of site scrolling here)</i>
+  <i>(screenshots)</i>
 </div>
+
 
 ---
 
